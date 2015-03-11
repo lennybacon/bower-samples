@@ -1,0 +1,24 @@
+{
+  "name": "my-first-bower",
+  "version": "1.0.0",
+  "authors": [
+    "Daniel Fisher <info@lennybacon.com>"
+  ],
+  "description": "my description",
+  "main": "index.js",
+  "moduleType": [
+    "globals"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/foo/bar.git"
+  },
+  "dependencies": {
+    //"some dependency":"https://github.com/owner/package"
+  },
+  "keywords": [
+    "sample"
+  ],
+  "license": "MIT",
+  "homepage": "http://lennybacon.com/"
+}
